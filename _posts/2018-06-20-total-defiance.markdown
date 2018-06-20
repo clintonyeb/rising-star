@@ -22,7 +22,7 @@ And one fire ball lodged into my right eye, burning, tried to scream again but g
 
 This continued for ages past counting, until my throat was raw and tongue was dry, until deserts blew barren sands into snow, and my attempts to shriek faded, and my skin grew hard and cracked, and the burning shard impaled me, pinning me to the world and my sins, cooled by temperature’s reckoning but not by pain’s, and the shard crystallized, and the smoke cleared, and gasping, I woke from my dream by a sharp pain from the left cheek.
 
-The soldier on the left, Rufus, who seemed astonished at the sight of the sudden awakening of the dying man after his brother's slap, exclaims, does he also refuse to die? Mukuls, Rufus' half brother responded, this man, this thing, has for seventeen years stood against everything good. He has Kkilled families, children, women, burnt cities, slaughtered kings in their beds, thought of as a myth, a ghost, the devil.
+The soldier on the left, Rufus, who seemed astonished at the sight of the sudden awakening of the dying man after his brother's slap, exclaims, does he also refuse to die? Mukus, Rufus' half brother responded, this man, this thing, has for seventeen years stood against everything good. He has killed families, children, women, burnt villages, slaughtered kings in their beds, thought of as a myth, a ghost, the devil.
 
 Three times he has nearly being captured but has managed to escape, and yet there he is, a mere man, hanging with his arms and legs nailed to a cross for the past six days. The council having deliberated about what to do with him finally decided killing him will be an act of mercy, but that he should be left alone to die at the mercy of The Creator. 
 
@@ -38,3 +38,5 @@ Even so, before the two young soldiers could finish their discourse, the man on 
 <br> <br>
 
 > Adapted from 'The Broken Eye', written by Brent Weeks.
+
+>Disclaimer: "This is a work of fiction. Names, characters, businesses, places, events and incidents are either the products of the author’s imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental." 
