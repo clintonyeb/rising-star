@@ -2,7 +2,7 @@
 layout: post
 title:  "Total Defiance"
 date:   2018-06-20 00:00:00 +0530
-categories: fantasy
+categories: fiction
 tags: creator defiance hell wickedness
 ---
 
