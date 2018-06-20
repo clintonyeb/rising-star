@@ -2,7 +2,7 @@
 layout: post
 title:  "Total Defiance"
 date:   2018-06-20 00:00:00 +0530
-categories: sci-fi fantasy
+categories: fantasy
 tags: creator defiance hell wickedness
 ---
 
@@ -22,16 +22,19 @@ And one fire ball lodged into my right eye, burning, tried to scream again but g
 
 This continued for ages past counting, until my throat was raw and tongue was dry, until deserts blew barren sands into snow, and my attempts to shriek faded, and my skin grew hard and cracked, and the burning shard impaled me, pinning me to the world and my sins, cooled by temperature’s reckoning but not by pain’s, and the shard crystallized, and the smoke cleared, and gasping, I woke from my dream by a sharp pain from the left cheek.
 
-The soldier on the left, Rufus said, does this man refuse to die? The other soldier responded, this thing, has for seventeen years stood against everything good. Killed families, children, burnt cities and slaughtered kings in their beds. Most men thought of him as a myth, a ghost, the devil.
+The soldier on the left, Rufus, who seemed astonished at the sight of the sudden awakening of the dying man after his brother's slap, exclaims, does he also refuse to die? Mukuls, Rufus' half brother responded, this man, this thing, has for seventeen years stood against everything good. He has Kkilled families, children, women, burnt cities, slaughtered kings in their beds, thought of as a myth, a ghost, the devil.
 
-Three times he has nearly being captured but has managed to escape. But there he is, a mere man, hanging with his arms and legs nailed to a cross for the past six days. The council having deliberated about what to do with him finally decided killing him will be an act of mercy, but that he should be left alone to die at the mercy of The Creator. 
+Three times he has nearly being captured but has managed to escape, and yet there he is, a mere man, hanging with his arms and legs nailed to a cross for the past six days. The council having deliberated about what to do with him finally decided killing him will be an act of mercy, but that he should be left alone to die at the mercy of The Creator. 
 
 And for six days?, Rufus asked. 
 
-Yes, for siz days, he has hang there, showing no trace of remorse and refusing to die.
+Yes, for six days, he has hang there, with no trace of remorse and even worse, refuses to die. And just when I thought it was all over, he wakes gasping for air and sweating profusely. 
 
-But now he wakes gasping for air and sweating profusely, Rufus added, as if cutting the man before he could competed his sentence. Perhaps even The Creator has abandoned him. What happens to a man should the living and the dead despise him? Rufus asked.
+Rufus interjected, perhaps even The Creator has abandoned him. What happens to a man should the living and the dead despise him?
 
 Even so, before the two young soldiers could finish their discourse, the man on the tree had died, Gull was dead.
 
 57 AD.
+<br> <br>
+
+> Adapted from 'The Broken Eye', written by Brent Weeks.

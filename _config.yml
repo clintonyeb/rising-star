@@ -16,7 +16,7 @@
 title: Rising Star
 email: clintonyeb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I talk about all things that matter to me. Life and Computer Science.
+  I talk about all things that matter to me. Life, Fiction and Computer Science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.clintonyeb.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: clintonyeb
@@ -33,6 +33,7 @@ google_analytics: UA-NNNNNNNN-N
 # show_excerpts: true
 disqus:
     shortname: rising-star
+permalink: /:categories/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
