@@ -16,7 +16,7 @@
 title: Rising Star
 email: clintonyeb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I talk about all things that matter to me. Life, Fiction and Computer Science.
+  Clinton Yeboah - Blog - I talk about all things that matter to me. Life, Fiction and Computer Science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.clintonyeb.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: clintonyeb
@@ -30,7 +30,7 @@ plugins:
 header_pages:
   -
 google_analytics: UA-NNNNNNNN-N
-# show_excerpts: true
+show_excerpts: true
 disqus:
     shortname: rising-star
 permalink: /:categories/:title

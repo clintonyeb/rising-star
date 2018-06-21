@@ -5,9 +5,6 @@ date:   2018-06-19 00:00:00 +0530
 categories: life-science
 tags: payments economy digital life science practical literature
 ---
-
-## Introduction
-
 The last two decades has seen a great stride in information technology. This vast development has changed the way business problems are conceived and solved. Whiles technology has made some problems easier to solve, it has also introduced problems of its own. However, due to the competitive nature of the business world, most businesses are either forced to prematurely adopt these new trends or left to mature the old ways of doing things.
 
 Nonetheless, change is difficult. Factors such as the cost, the learning curve, user acceptance, integration and backward compatibility into existing systems cause most businesses to demur from such advancements even when the benefits are obvious. The banking sector of India's economy is no exception.
